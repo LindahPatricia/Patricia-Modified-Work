@@ -1,0 +1,89 @@
+body{
+	background-color: ghostwhite
+
+	 }
+.myBio{
+		background-color: blueviolet;
+
+	height:100px;
+	width: 200px;
+	background-color: #808080;
+	position: relative;
+	display: inline-block;
+	padding: 100px;
+	text color: black;
+
+}
+.myBio:hover{
+	background-color:red;
+}
+.myEducationHistory{
+		
+	height:100px;
+	width: 200px;
+	background-color: #C0C0C0 ;
+	position: relative;
+	display: inline-block;
+	padding: 100px;
+	top: 300px;
+	right: 405px;
+
+}
+
+.myEducationHistory:hover{
+	background-color: yellow;
+}
+
+.myPhoto{
+		background-color: blueviolet;
+
+	height:100px ;
+	width: 200px ;
+	background-color: blue;
+	position: relative;
+	display: inline-block;
+	padding: 100px;
+	font-color: black ;
+	left: 400px;
+	font-size:100 ;
+}
+.myPhoto:hover{
+	background-color: floralwhite;
+}
+
+.myHobbies{
+		background-color: lightblue;
+
+	height:100px;
+	width: 200px;
+	background-color: #728FCE ; 
+	position: relative;
+	display: inline-block;
+	padding: 100px;
+	font-color: black;
+	top: 300px ;
+
+
+}
+.myHobbies:hover{
+	background-color: rosybrown;
+}
+
+.contactme{
+		background-color: green;
+
+	height:100px;
+	width: 200px;
+	background-color: #FFC0CB;
+	position: relative;
+	display: inline-block;
+	padding: 100px;
+	text- color: black;
+	top: 300px;
+	left: 400px;
+
+}
+.contactme:hover{
+	background-color: purple;
+
+}
